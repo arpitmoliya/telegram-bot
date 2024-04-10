@@ -61,3 +61,5 @@ async function fetchViewsFromGiphy(project) {
 }
 
 console.log("Bot is running..");
+// GIPHY_API_KEY=UxB3Szr9t3lC5uiJl0dwW0zfInTnfY6I
+// TELEGRAM_BOT_TOKEN=6943120227:AAF0vPnjmezIhntZNY7MmCGMQvOfXIskX24
